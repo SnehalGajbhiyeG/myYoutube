@@ -1,28 +1,22 @@
-Debouncing 
-
-typing slow = 200ms
-typing fast = 30ms 
-
-Performance:
-- iphone pro max - 14 letter * 1000 = 14000
-- with debouncing = 3 API calls * 1000 = 3000
+# myYouTube
 
 
-Debouncing with 200ms
-- if difference between 2 key strokes is < 200ms - DECLINE API Call
-- >200ms make an API Call 
+> A React-powered web application that seamlessly integrates the YouTube API.
 
+---
 
+## Table of Tech Stack 
 
-Cache:
-time complexity to search in array = 0(n) 
+- React for the base setup 
+- Redux toolkit for store actions 
+- React Router DOM for routing 
+- Tailwind CSS for sleek styles
 
-array.indexOf()
-[i, ip, iph, iphone]
+---
 
-{
-    i:
-    ip:
-    iph:
-    iphone:
-}
+## Features
+
+- Toggle sidebar for seamless navigation 
+- Youtube search bar with autocomplete functionality
+- Side card panel for additional content 
+- 
