@@ -16,10 +16,8 @@
 
 ## Features
 
-- Seamless Navigation:
-Toggle sidebar for effortless navigation throughout the platform.
-- Enhanced Search:
-Utilize the YouTube search bar with autocomplete functionality to find content effortlessly.
+- Seamless Navigation - Toggle sidebar for effortless navigation throughout the platform.
+- Enhanced Search - Utilize the YouTube search bar with autocomplete functionality to find content effortlessly.
 Side Card Panel
 Access additional content conveniently via the side card panel.
 Live Video Feed
