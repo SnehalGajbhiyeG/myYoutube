@@ -1,8 +1,7 @@
 # myYouTube
 
 
-> A React-powered web application that seamlessly integrates the YouTube API.
-
+> myYouTube is a powerful web application built with React, seamlessly integrating the YouTube API to deliver a feature-rich experience. Whether you're browsing for your favorite content, engaging in discussions, or enjoying live chat, myYouTube has you covered.
 ---
 
 ## Tech Stack 
