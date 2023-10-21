@@ -7,10 +7,10 @@
 
 ## Table of Tech Stack 
 
-React: The foundation for dynamic user interfaces.
-Redux Toolkit: For state management and actions.
-React Router DOM: Ensuring smooth routing within the application.
-Tailwind CSS: Sleek and modern styles to enhance the user experience.
+- React: The foundation for dynamic user interfaces.
+- Redux Toolkit: For state management and actions.
+- React Router DOM: Ensuring smooth routing within the application.
+- Tailwind CSS: Sleek and modern styles to enhance the user experience.
 
 ---
 
