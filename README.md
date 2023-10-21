@@ -5,7 +5,7 @@
 
 ---
 
-## Table of Tech Stack 
+## Tech Stack 
 
 - React: The foundation for dynamic user interfaces.
 - Redux Toolkit: For state management and actions.
@@ -18,14 +18,9 @@
 
 - Seamless Navigation - Toggle sidebar for effortless navigation throughout the platform.
 - Enhanced Search - Utilize the YouTube search bar with autocomplete functionality to find content effortlessly.
-Side Card Panel
-Access additional content conveniently via the side card panel.
-Live Video Feed
-Enjoy a live YouTube video feed by utilizing the YouTube video feed API.
-Nested Comments
-Engage in organized discussions with the ability for n-level nested comments.
+- Side Card Panel - Access additional content conveniently via the side card panel.
+- Live Video Feed - Enjoy a live YouTube video feed by utilizing the YouTube video feed API.
+- Nested Comments - Engage in organized discussions with the ability for n-level nested comments.
 
 ---
 
-## LIVE CHAT
-system on the watch page, user can do live Anonymous chat using here API Polling method
