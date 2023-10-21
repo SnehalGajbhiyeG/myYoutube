@@ -7,20 +7,26 @@
 
 ## Table of Tech Stack 
 
-- React for the base setup 
-- Redux toolkit for store actions 
-- React Router DOM for routing 
-- Tailwind CSS for sleek styles
+React: The foundation for dynamic user interfaces.
+Redux Toolkit: For state management and actions.
+React Router DOM: Ensuring smooth routing within the application.
+Tailwind CSS: Sleek and modern styles to enhance the user experience.
 
 ---
 
 ## Features
 
-- Toggle sidebar for seamless navigation 
-- Youtube search bar with autocomplete functionality
-- Side card panel for additional content 
-- Live YouTube video feed by using YouTube video feed API
-- Nested comments
+Features
+Seamless Navigation
+Toggle sidebar for effortless navigation throughout the platform.
+Enhanced Search
+Utilize the YouTube search bar with autocomplete functionality to find content effortlessly.
+Side Card Panel
+Access additional content conveniently via the side card panel.
+Live Video Feed
+Enjoy a live YouTube video feed by utilizing the YouTube video feed API.
+Nested Comments
+Engage in organized discussions with the ability for n-level nested comments.
 
 ---
 
