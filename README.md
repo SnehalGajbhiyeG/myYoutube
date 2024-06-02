@@ -1,7 +1,7 @@
 # myYouTube
 
 
-> myYouTube is a powerful web application built with React, seamlessly integrating the YouTube API to deliver a feature-rich experience. Whether you're browsing for your favorite content, engaging in discussions, or enjoying live chat, myYouTube has you covered.
+> Built a YouTube clone using React with Redux for state management. Implemented search with suggestions, live chat, and a personalized recommendation system.
 ---
 
 ## Tech Stack 
